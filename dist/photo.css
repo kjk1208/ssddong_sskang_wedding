@@ -100,7 +100,7 @@ header h1 { text-indent: -9999px; }
 }
 
 .header__logo {
-  max-width: 200px;
+  max-width: 400px;
   float: left;
   overflow: hidden;
 }
