@@ -1,4 +1,4 @@
-# 레드벨벳 팬사이트
+# 스똥 앤 스강 사이트
 
 <p align="center">
   <img src="./portfolio/logo.png" width="300px">

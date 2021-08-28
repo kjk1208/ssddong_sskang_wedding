@@ -1,7 +1,7 @@
 {
-  "name": "redvelvet-fansite",
+  "name": "wedding-site",
   "version": "1.0.0",
-  "description": "Build fansite of Redvelvet using pure HTML/CSS/JS",
+  "description": "Build site of wedding of sskang and ssddong using pure HTML/CSS/JS",
   "main": "default.js",
   "scripts": {
     "build-prod": "webpack --mode=production",

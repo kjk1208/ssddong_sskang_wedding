@@ -2,7 +2,7 @@ import './default';
 import '../css/index.css';
 
 const importAllDefaultImages = function importAllDefaultImages() {
-  const images = require.context('../images/', true, /index-.*\.jpg$/);
+  const images = require.context('../images/', true, /index1-.*\.jpg$/);
   images.keys().forEach(images);
 };
 
