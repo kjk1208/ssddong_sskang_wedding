@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baeharam/Redvelvet-Fansite.git"
+    "url": "git+https://github.com/kjk1208/ssddong_sskang_wedding.git"
   },
   "author": "SSkang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/baeharam/Redvelvet-Fansite/issues"
+    "url": "https://github.com/kjk1208/ssddong_sskang_wedding/issues"
   },
-  "homepage": "https://github.com/baeharam/Redvelvet-Fansite#readme",
+  "homepage": "https://kjk1208.github.io/ssddong_sskang_wedding/html/index.html",
   "dependencies": {
     "intersection-observer": "^0.7.0",
     "masonry-layout": "^4.2.2",
