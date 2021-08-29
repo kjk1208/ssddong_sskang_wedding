@@ -100,7 +100,7 @@ header h1 { text-indent: -9999px; }
 }
 
 .header__logo {
-  max-width: 200px;
+  max-width: 400px;
   float: left;
   overflow: hidden;
 }
@@ -481,29 +481,29 @@ input[id="menuicon"] + label span:nth-child(3) { bottom: 0; }
 }
 
 li:nth-child(1) .bg__img {
-  background-image: url(./assets/index-irene.jpg?e394);
+  background-image: url(./assets/IMG_3784.jpg);
 }
 
 li:nth-child(2) .bg__img {
-  background-image: url(./assets/index-seulgi.jpg?3629);
+  background-image: url(./assets/9M4A8742.jpg);
   -webkit-animation-delay: 6s;
           animation-delay: 6s;
 }
 
 li:nth-child(3) .bg__img {
-  background-image: url(./assets/index-wendy.jpg?b8ac);
+  background-image: url(./assets/9M4A8642.jpg);
   -webkit-animation-delay: 12s;
           animation-delay: 12s;
 }
 
 li:nth-child(4) .bg__img {
-  background-image: url(./assets/index-yeri.jpg?1bce);
+  background-image: url(./assets/9M4A8259.jpg);
   -webkit-animation-delay: 18s;
           animation-delay: 18s;
 }
 
 li:nth-child(5) .bg__img {
-  background-image: url(./assets/index-joy.jpg?0f7d);
+  background-image: url(./assets/9M4A8122.jpg);
   -webkit-animation-delay: 24s;
           animation-delay: 24s;
 }
