@@ -455,7 +455,7 @@ body {
 .group__member {
   position: absolute;
   min-height: 150vh;
-  width: 49.9vw;
+  width: 49.99vw;
   transition: all 0.5s;
   -webkit-filter: grayscale(100%);
           filter: grayscale(100%);
@@ -642,9 +642,9 @@ body {
 
 .single:nth-child(2) .single__main__profile::after { border: 5px solid #dc749f; }
 .single:nth-child(3) .single__main__profile::after { border: 5px solid #cdbddc; }
-.single:nth-child(4) .single__main__profile::after { border: 5px solid #d17d95; }
-.single:nth-child(5) .single__main__profile::after { border: 5px solid #4b73bd; }
-.single:nth-child(6) .single__main__profile::after { border: 5px solid #8ea272; }
+/* .single:nth-child(4) .single__main__profile::after { border: 5px solid #d17d95; } */
+/* .single:nth-child(5) .single__main__profile::after { border: 5px solid #4b73bd; } */
+/* .single:nth-child(6) .single__main__profile::after { border: 5px solid #8ea272; } */
 
 .single__detail {
   line-height: 2;
@@ -663,14 +663,14 @@ body {
   font-weight: bold;
 }
 
-.single__detail__spec .line1,
-.single__detail__spec .line2,
-.single__detail__spec .line3,
-.single__detail__spec .line4 {
+.single__detail__spec .line1{
+/* .single__detail__spec .line2, */
+/* .single__detail__spec .line3, */
+/* .single__detail__spec .line4 { */
   -webkit-animation-name: fadeInFromBottom;
           animation-name: fadeInFromBottom;
-  -webkit-animation-duration: 1s;
-          animation-duration: 1s;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
   display: inline-block;
@@ -678,9 +678,9 @@ body {
 }
 
 .single__detail__spec .line1 { -webkit-animation-delay: 0.3s; animation-delay: 0.3s; }
-.single__detail__spec .line2 { -webkit-animation-delay: 0.6s; animation-delay: 0.6s; }
-.single__detail__spec .line3 { -webkit-animation-delay: 0.9s; animation-delay: 0.9s; }
-.single__detail__spec .line4 { -webkit-animation-delay: 1.2s; animation-delay: 1.2s; }
+/* .single__detail__spec .line2 { -webkit-animation-delay: 0.6s; animation-delay: 0.6s; } */
+/* .single__detail__spec .line3 { -webkit-animation-delay: 0.9s; animation-delay: 0.9s; } */
+/* .single__detail__spec .line4 { -webkit-animation-delay: 1.2s; animation-delay: 1.2s; } */
 
 .single__detail__saying {
   position: absolute;
@@ -938,7 +938,7 @@ body {
     -webkit-animation-name: appearFromRight;
             animation-name: appearFromRight;
   }
-
+/* 
   .group__member:nth-child(3) {
     top: 40%;
     left: 0;
@@ -961,7 +961,7 @@ body {
     -webkit-animation-name: appearFromLeft;
             animation-name: appearFromLeft;
     background-position-y: 40%;
-  }
+  } */
 
   .group__member.group__member--expand {
     top: 0;
